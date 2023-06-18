@@ -40,5 +40,5 @@ ___
 [![Header](https://img.shields.io/badge/github-090909?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DariaPaksyutkina-qa)
 [![Header](https://img.shields.io/badge/ВКонтакте-090909?style=for-the-badge&logo=vk&logoColor=0000ff)](https://m.vk.com/d.gbjg)
 [![Header](https://img.shields.io/badge/WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=008000)](https://wa.me/79068619740)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
+
 
