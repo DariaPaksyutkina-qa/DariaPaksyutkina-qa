@@ -3,7 +3,7 @@
 </div>  
   
 # <div align="center">Привет, меня зовут Дарья!👋</div>  
-### 🙃 Я  QA - Engineer с опытом более 2-х лет. Замаюсь анализом документации, тестированием Web и мобильных приложений, разработкой тестовых сценариев, написанием тест-кейсов и чек-листов, оформлением баг-репортов. 
+### 🙃 Я  QA - Engineer с опытом более 2-х лет. Занимаюсь анализом документации, тестированием Web и мобильных приложений, разработкой тестовых сценариев, написанием тест-кейсов и чек-листов, оформлением баг-репортов. 
 ### 💼На текущий момент работаю в компании .....  
 ### ✨Планирую углубиться в автоматизацию.
 ____
@@ -28,11 +28,10 @@ ___
 
 ## **Testing Documentation**
 
-- [Checklists](https://miro.com/app/board/uXjVM9vCk9w=/)
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Checklist](https://miro.com/app/board/uXjVM9vCk9w=/)
+- [Test-Cases](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Test-Cases.pdf)
+- [Bug-Report](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Bug-Report.pdf)
+- [Postman Collection](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Agent%20app.postman_collection.json)
  ___
 
 ## **Connect with me**
