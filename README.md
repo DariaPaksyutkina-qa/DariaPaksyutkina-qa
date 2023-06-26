@@ -4,7 +4,7 @@
   
 # <div align="center">Привет, меня зовут Дарья!👋</div>  
 ### 🙃 Я  QA - Engineer с опытом более 2-х лет. Занимаюсь анализом документации, тестированием Web и мобильных приложений, разработкой тестовых сценариев, написанием тест-кейсов и чек-листов, оформлением баг-репортов. 
-### 💼На текущий момент работаю в компании .....  
+### 💼На текущий момент работаю в компании OOO "ШЕЛЛ ТУР"  
 ### ✨Планирую углубиться в автоматизацию.
 ____
  
@@ -26,12 +26,7 @@ ____
 ![Header](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux&logoColor=ffff00 )
 ___
 
-## **Testing Documentation**
 
-- [Checklist](https://miro.com/app/board/uXjVM9vCk9w=/)
-- [Test-Cases](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Test-Cases.pdf)
-- [Bug-Report](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Bug-Report.pdf)
-- [Postman Collection](https://github.com/DariaPaksyutkina-qa/Testing_Documentation/blob/main/Agent%20app.postman_collection.json)
  ___
 
 ## **Connect with me**
